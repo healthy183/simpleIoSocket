@@ -1,0 +1,2 @@
+服务端实现多客户端的信息请求，一个请求一个线程
+同一客户端多开需要run配置modify options> allow multiple instances

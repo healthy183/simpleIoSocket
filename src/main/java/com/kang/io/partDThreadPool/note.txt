@@ -1,0 +1,3 @@
+服务端实现多客户端的信息请求，并加上线程池
+同一客户端多开需要run配置modify options> allow multiple instances
+线程池默认两个客户端，再多就要进入队列等候
